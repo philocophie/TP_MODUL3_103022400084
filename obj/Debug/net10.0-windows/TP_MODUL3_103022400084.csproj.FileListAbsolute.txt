@@ -5,3 +5,13 @@ C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP
 C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.AssemblyInfo.cs
 C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.csproj.CoreCompileInputs.cache
 C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.sourcelink.json
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\bin\Debug\net10.0-windows\TP_MODUL3_103022400084.exe
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\bin\Debug\net10.0-windows\TP_MODUL3_103022400084.deps.json
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\bin\Debug\net10.0-windows\TP_MODUL3_103022400084.runtimeconfig.json
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\bin\Debug\net10.0-windows\TP_MODUL3_103022400084.dll
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\bin\Debug\net10.0-windows\TP_MODUL3_103022400084.pdb
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.dll
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\refint\TP_MODUL3_103022400084.dll
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.pdb
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.genruntimeconfig.cache
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\ref\TP_MODUL3_103022400084.dll
