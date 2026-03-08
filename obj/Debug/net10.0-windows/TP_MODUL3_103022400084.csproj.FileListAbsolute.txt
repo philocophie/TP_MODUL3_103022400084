@@ -1,0 +1,7 @@
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.Form1.resources
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.csproj.GenerateResource.cache
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.AssemblyInfoInputs.cache
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.AssemblyInfo.cs
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Downloads\KPL\TP_MODUL3_103022400084\obj\Debug\net10.0-windows\TP_MODUL3_103022400084.sourcelink.json
